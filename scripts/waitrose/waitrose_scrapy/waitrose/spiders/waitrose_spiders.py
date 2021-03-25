@@ -1,9 +1,6 @@
 import scrapy
 import pandas as pd
-import re
 import csv
-import sys
-from datetime import date
 
 class ProdDetailsSpider(scrapy.Spider):
 
